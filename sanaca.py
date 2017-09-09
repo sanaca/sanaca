@@ -28,7 +28,7 @@ class colors:
 def Banner():
 
 
-	print colors.BLUE + (" "*43+"[-----Forensic Réseau-----]") + colors.END
+	print colors.BLUE + " "*55+"[-----Forensic Réseau-----]" + colors.END
 	print colors.YELLOW   + (" "*55+"[-----Analyseur de pcap-----]") + colors.END
 
 
