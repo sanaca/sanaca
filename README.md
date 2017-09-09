@@ -1,3 +1,3 @@
 # sanaca
 
-It'is a tool to analyze pcap and create rule snort/suricata with a .txt
+It'is a tool to analyze pcap and create pcap from snort/suricata with a .txt
