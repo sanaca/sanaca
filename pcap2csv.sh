@@ -2,7 +2,7 @@
 #Daniel Schwartz
 #This script converts pcap files to a csv file using tshark 1.11.x and 1.12 
 #Created: May 2015
-#Updated: January 2017 by Cedric Hien
+#Updated: Jun 2017 by Sanaca
 #Version 1.4m
 
 
